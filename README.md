@@ -1,5 +1,16 @@
 # Audit Analytics – Financial Anomaly Detection
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-F2C811?logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/dax/)
+[![Z--Score](https://img.shields.io/badge/Z--Score-Anomaly%20Detection-8A2BE2)]()
+[![Dataset](https://img.shields.io/badge/Dataset-Credit%20Card%20Transactions-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
+
 ## Overview
 
 This project analyzes credit card transaction data to detect financial anomalies, compute audit KPIs, and support risk monitoring through an interactive Power BI dashboard. The pipeline covers data cleaning, exploratory analysis, fraud profiling, and statistical anomaly detection — with clean outputs exported for Power BI reporting.
